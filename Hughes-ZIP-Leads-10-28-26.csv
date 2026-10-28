@@ -1,0 +1,321 @@
+zip,state,county,city,leads,homeowners,leads_jul,leads_aug,leads_sep,leads_oct,leads_nov,inbound_callers,inbound_calls,reported_sales
+21229,MD,Baltimore (city),Baltimore,6,5,1,1,1,2,1,1,1,1
+22303,VA,Fairfax,Alexandria,1,1,1,0,0,0,0,0,0,1
+21133,MD,Baltimore,Randallstown,10,10,1,3,3,3,0,2,2,0
+21207,MD,Baltimore,Gwynn Oak,10,9,4,2,2,0,2,0,0,0
+19802,DE,New Castle,Wilmington,8,8,0,0,7,1,0,0,0,0
+21122,MD,Anne Arundel,Pasadena,8,7,3,2,3,0,0,1,3,0
+21222,MD,Baltimore,Dundalk,8,8,2,1,4,0,1,2,2,0
+20746,MD,Prince Georges,Camp Springs,6,6,2,1,2,1,0,1,1,0
+21206,MD,Baltimore (city),Baltimore,6,5,2,1,0,2,1,0,0,0
+21220,MD,Baltimore,Middle River,6,6,1,2,1,1,1,0,0,0
+22405,VA,Stafford,Fredericksburg,6,3,3,3,0,0,0,0,0,0
+19713,DE,New Castle,Newark,5,4,1,0,3,1,0,0,0,0
+20735,MD,Prince Georges,Clinton,5,5,2,2,1,0,0,0,0,0
+20744,MD,Prince Georges,Fort Washington,5,5,1,0,3,0,1,0,0,0
+20747,MD,Prince Georges,District Heights,5,4,1,0,2,1,1,1,1,0
+21213,MD,Baltimore (city),Baltimore,5,4,1,3,0,1,0,1,1,0
+21216,MD,Baltimore (city),Baltimore,5,5,0,3,1,1,0,1,1,0
+21236,MD,Baltimore,Nottingham,5,5,1,2,1,1,0,0,0,0
+21244,MD,Baltimore,Windsor Mill,5,5,1,1,2,0,1,1,1,0
+23322,VA,Chesapeake (city),Chesapeake,5,5,0,1,3,0,1,0,0,0
+23434,VA,Suffolk (city),Suffolk,5,5,0,1,4,0,0,0,0,0
+23452,VA,Virginia Beach (city),Virginia Beach,5,5,0,1,1,2,1,0,0,0
+20148,VA,Loudoun,Ashburn,4,4,0,1,3,0,0,0,0,0
+20155,VA,Prince William,Gainesville,4,4,1,1,2,0,0,0,0,0
+21740,MD,Washington,Hagerstown,4,2,2,1,0,0,1,0,0,0
+21921,MD,Cecil,Elkton,4,4,1,2,1,0,0,1,1,0
+22042,VA,Fairfax,Falls Church,4,4,1,0,2,1,0,0,0,0
+22980,VA,Waynesboro (city),Waynesboro,4,4,0,1,3,0,0,0,0,0
+23454,VA,Virginia Beach (city),Virginia Beach,4,4,2,1,0,1,0,0,0,0
+23462,VA,Virginia Beach (city),Virginia Beach,4,4,0,1,1,2,0,0,0,0
+23803,VA,Petersburg (city),Petersburg,4,4,1,1,2,0,0,0,0,0
+19720,DE,New Castle,New Castle,3,3,0,0,3,0,0,0,0,0
+19805,DE,New Castle,Wilmington,3,2,1,0,2,0,0,0,0,0
+19970,DE,Sussex,Ocean View,3,3,0,0,2,1,0,0,0,0
+20716,MD,Prince Georges,Bowie,3,2,1,0,2,0,0,0,0,0
+20748,MD,Prince Georges,Temple Hills,3,3,1,0,2,0,0,0,0,0
+20785,MD,Prince Georges,Hyattsville,3,3,1,1,0,1,0,0,0,0
+21001,MD,Harford,Aberdeen,3,3,1,1,1,0,0,0,0,0
+21085,MD,Harford,Joppatowne,3,3,1,0,1,0,1,0,0,0
+21144,MD,Anne Arundel,Severn,3,2,1,0,2,0,0,0,0,0
+21208,MD,Baltimore,Pikesville,3,2,1,2,0,0,0,0,0,0
+21215,MD,Baltimore (city),Baltimore,3,3,1,0,0,2,0,0,0,0
+21218,MD,Baltimore (city),Baltimore,3,3,0,1,1,0,1,1,1,0
+21225,MD,Baltimore (city),Brooklyn Park,3,2,1,0,1,0,1,0,0,0
+21234,MD,Baltimore,Parkville,3,3,1,1,1,0,0,1,2,0
+21804,MD,Wicomico,Salisbury,3,3,0,0,2,1,0,1,1,0
+22206,VA,Arlington,Arlington,3,3,0,0,2,0,1,0,0,0
+22407,VA,Spotsylvania,Fredericksburg,3,3,1,1,1,0,0,0,0,0
+23185,VA,James (city),Williamsburg,3,3,0,2,1,0,0,1,1,0
+23223,VA,Richmond (city),Richmond,3,3,0,3,0,0,0,0,0,0
+23225,VA,Richmond (city),Richmond,3,2,2,0,0,1,0,0,0,0
+23227,VA,Henrico,Richmond,3,3,1,1,1,0,0,0,0,0
+23234,VA,Chesterfield,Richmond,3,2,1,1,0,1,0,0,0,0
+23320,VA,Chesapeake (city),Chesapeake,3,3,0,1,1,1,0,0,0,0
+23666,VA,Hampton (city),Hampton,3,2,2,0,0,1,0,0,0,0
+23669,VA,Hampton (city),Hampton,3,3,2,0,1,0,0,0,0,0
+23860,VA,Hopewell (city),Hopewell,3,3,1,2,0,0,0,0,0,0
+24060,VA,Montgomery,Blacksburg,3,3,0,0,3,0,0,0,0,0
+19701,DE,New Castle,Bear,2,1,1,0,1,0,0,1,1,0
+20109,VA,Prince William,Manassas,2,2,0,1,0,1,0,0,0,0
+20110,VA,Manassas (city),Manassas,2,1,1,0,0,1,0,0,0,0
+20111,VA,Prince William,Manassas,2,2,0,0,2,0,0,0,0,0
+20602,MD,Charles,Waldorf,2,2,0,0,1,0,1,0,0,0
+20706,MD,Prince Georges,Lanham,2,2,0,0,0,2,0,0,0,0
+20707,MD,Prince Georges,Laurel,2,2,1,0,0,0,1,0,0,0
+20708,MD,Prince Georges,Laurel,2,2,1,0,0,0,1,0,0,0
+20720,MD,Prince Georges,Bowie,2,2,0,0,1,1,0,0,0,0
+20721,MD,Prince Georges,Bowie,2,2,1,0,0,1,0,0,0,0
+20743,MD,Prince Georges,Capitol Hgts,2,2,0,1,0,1,0,0,0,0
+20745,MD,Prince Georges,Oxon Hill,2,2,0,0,0,2,0,0,0,0
+20772,MD,Prince Georges,Upper Marlboro,2,2,0,0,1,1,0,1,1,0
+20782,MD,Prince Georges,Hyattsville,2,2,1,0,0,0,1,1,1,0
+20783,MD,Prince Georges,Hyattsville,2,2,1,1,0,0,0,0,0,0
+20784,MD,Prince Georges,Hyattsville,2,2,0,0,1,0,1,0,0,0
+20814,MD,Montgomery,Bethesda,2,2,1,1,0,0,0,0,0,0
+20886,MD,Montgomery,Montgomery Village,2,2,1,0,1,0,0,0,0,0
+20906,MD,Montgomery,Silver Spring,2,2,2,0,0,0,0,0,0,0
+21009,MD,Harford,Abingdon,2,2,0,1,1,0,0,0,0,0
+21014,MD,Harford,Bel Air,2,2,2,0,0,0,0,0,0,0
+21040,MD,Harford,Edgewood,2,1,2,0,0,0,0,0,0,0
+21042,MD,Howard,Ellicott City,2,1,1,1,0,0,0,1,1,0
+21060,MD,Anne Arundel,Glen Burnie,2,2,0,1,0,1,0,0,0,0
+21061,MD,Anne Arundel,Glen Burnie,2,2,0,1,0,1,0,0,0,0
+21078,MD,Harford,Havre De Grace,2,2,0,0,1,1,0,0,0,0
+21113,MD,Anne Arundel,Odenton,2,1,1,1,0,0,0,0,0,0
+21117,MD,Baltimore,Owings Mills,2,2,0,1,0,0,1,0,0,0
+21136,MD,Baltimore,Reisterstown,2,2,0,0,0,2,0,1,1,0
+21157,MD,Carroll,Westminster,2,1,1,0,1,0,0,0,0,0
+21212,MD,Baltimore (city),Baltimore,2,2,1,1,0,0,0,1,1,0
+21217,MD,Baltimore (city),Baltimore,2,2,0,0,1,1,0,0,0,0
+21221,MD,Baltimore,Essex,2,2,1,0,1,0,0,0,0,0
+21224,MD,Baltimore (city),Baltimore,2,2,0,2,0,0,0,1,1,0
+21237,MD,Baltimore,Rosedale,2,2,0,0,1,1,0,1,1,0
+21239,MD,Baltimore (city),Baltimore,2,2,0,0,0,1,1,0,0,0
+21403,MD,Anne Arundel,Parkville,2,2,0,0,0,0,2,0,0,0
+21911,MD,Cecil,Rising Sun,2,2,0,2,0,0,0,0,0,0
+22015,VA,Fairfax,Burke,2,2,0,0,0,2,0,0,0,0
+22079,VA,Fairfax,Lorton,2,2,1,1,0,0,0,0,0,0
+22192,VA,Prince William,Woodbridge,2,2,0,1,1,0,0,0,0,0
+22193,VA,Prince William,Woodbridge,2,2,1,1,0,0,0,0,0,0
+22204,VA,Arlington,Arlington,2,1,1,0,1,0,0,0,0,0
+22304,VA,Alexandria (city),Alexandria,2,2,1,1,0,0,0,0,0,0
+22315,VA,Fairfax,Alexandria,2,2,1,0,0,0,1,0,0,0
+22801,VA,Harrisonburg (city),Harrisonburg,2,2,0,0,2,0,0,1,1,0
+23112,VA,Chesterfield,Midlothian,2,2,0,1,1,0,0,0,0,0
+23116,VA,Hanover,Mechanicsville,2,2,0,0,0,1,1,0,0,0
+23228,VA,Henrico,Henrico,2,2,1,0,0,1,0,0,0,0
+23231,VA,Henrico,Richmond,2,2,0,2,0,0,0,0,0,0
+23323,VA,Chesapeake (city),Chesapeake,2,2,0,1,0,1,0,1,1,0
+23453,VA,Virginia Beach (city),Virginia Beach,2,1,1,0,1,0,0,0,0,0
+23456,VA,Virginia Beach (city),Virginia Beach,2,2,0,1,1,0,0,0,0,0
+23601,VA,Newport News (city),Newport News,2,2,0,0,2,0,0,0,0,0
+23608,VA,Newport News (city),Newport News,2,2,1,1,0,0,0,0,0,0
+23661,VA,Hampton (city),Hampton,2,2,0,1,0,0,1,0,0,0
+23707,VA,Portsmouth (city),Portsmouth,2,2,2,0,0,0,0,0,0,0
+23805,VA,Petersburg (city),Green Bay,2,2,0,1,1,0,0,0,0,0
+23875,VA,Prince George,Prince George,2,2,0,2,0,0,0,0,0,0
+23970,VA,Mecklenburg,South Hill,2,2,2,0,0,0,0,0,0,0
+24012,VA,Roanoke (city),Roanoke,2,2,2,0,0,0,0,0,0,0
+24018,VA,Roanoke,Roanoke,2,2,1,1,0,0,0,0,0,0
+24112,VA,Martinsville (city),Martinsville,2,2,2,0,0,0,0,0,0,0
+24141,VA,Radford,Radford,2,2,0,1,1,0,0,1,1,0
+24165,VA,Henry,Spencer,2,2,0,1,1,0,0,0,0,0
+24174,VA,Bedford,Thaxton,2,2,0,1,1,0,0,0,0,0
+24201,VA,Bristol,Bristol,2,2,1,1,0,0,0,0,0,0
+24228,VA,Dickenson,Clintwood,2,1,1,0,1,0,0,0,0,0
+24293,VA,Wise,Wise,2,2,1,1,0,0,0,0,0,0
+24501,VA,Lynchburg (city),Lynchburg,2,2,1,0,1,0,0,0,0,0
+24502,VA,Lynchburg (city),Lynchburg,2,2,1,1,0,0,0,0,0,0
+24520,VA,Halifax,Alton,2,2,1,0,1,0,0,0,0,0
+24523,VA,Bedford,Bedford,2,2,1,1,0,0,0,0,0,0
+24551,VA,Bedford,Forest,2,1,2,0,0,0,0,0,0,0
+24554,VA,Campbell,Gladys,2,2,0,2,0,0,0,0,0,0
+24592,VA,Halifax,South Boston,2,2,2,0,0,0,0,0,0,0
+19709,DE,New Castle,Middletown,1,1,0,0,1,0,0,0,0,0
+19808,DE,New Castle,Wilmington,1,1,0,0,0,1,0,0,0,0
+19810,DE,New Castle,Wilmington,1,1,0,0,1,0,0,0,0,0
+19958,DE,Sussex,Lewes,1,1,0,0,0,1,0,0,0,0
+19966,DE,Sussex,Millsboro,1,1,0,0,0,1,0,0,0,0
+19968,DE,Sussex,Milton,1,1,0,0,1,0,0,0,0,0
+20124,VA,Fairfax,Clifton,1,1,0,0,0,1,0,0,0,0
+20147,VA,Loudoun,Ashburn,1,1,0,0,1,0,0,1,1,0
+20152,VA,Loudoun,Chantilly,1,1,0,1,0,0,0,0,0,0
+20164,VA,Loudoun,Sterling,1,1,0,1,0,0,0,0,0,0
+20165,VA,Loudoun,Sterling,1,1,1,0,0,0,0,0,0,0
+20603,MD,Charles,Waldorf,1,1,0,1,0,0,0,0,0,0
+20639,MD,Calvert,Huntingtown,1,1,1,0,0,0,0,0,0,0
+20640,MD,Charles,Indian Head,1,1,0,1,0,0,0,0,0,0
+20646,MD,Charles,La Plata,1,1,0,0,0,0,1,0,0,0
+20650,MD,Saint Marys,Leonardtown,1,1,1,0,0,0,0,0,0,0
+20659,MD,Saint Marys,Mechanicsville,1,1,0,0,0,1,0,0,0,0
+20695,MD,Charles,White Plains,1,1,0,0,1,0,0,0,0,0
+20704,MD,Prince Georges,Beltsville,1,1,0,1,0,0,0,0,0,0
+20705,MD,Prince Georges,Beltsville,1,1,0,0,0,1,0,0,0,0
+20737,MD,Prince Georges,East Riverdale,1,1,0,1,0,0,0,0,0,0
+20769,MD,Prince Georges,Glenn Dale,1,1,1,0,0,0,0,0,0,0
+20775,MD,Prince Georges,Upper Marlboro,1,1,0,1,0,0,0,0,0,0
+20850,MD,Montgomery,Rockville,1,1,0,0,1,0,0,0,0,0
+20853,MD,Montgomery,Rockville,1,1,0,1,0,0,0,0,0,0
+20874,MD,Montgomery,Germantown,1,1,0,0,1,0,0,0,0,0
+20878,MD,Montgomery,Gaithersburg,1,1,0,0,0,0,1,0,0,0
+20902,MD,Montgomery,Silver Spring,1,1,0,0,1,0,0,0,0,0
+20904,MD,Montgomery,Silver Spring,1,1,0,0,0,0,1,0,0,0
+20910,MD,Montgomery,Silver Spring,1,1,1,0,0,0,0,0,0,0
+21013,MD,Baltimore,Baldwin,1,1,1,0,0,0,0,0,0,0
+21015,MD,Harford,Bel Air,1,1,1,0,0,0,0,0,0,0
+21028,MD,Harford,Churchville,1,1,0,1,0,0,0,0,0,0
+21054,MD,Anne Arundel,Gambrills,1,1,1,0,0,0,0,0,0,0
+21128,MD,Baltimore,Perry Hall,1,1,0,1,0,0,0,0,0,0
+21131,MD,Baltimore,Phoenix,1,1,0,0,1,0,0,0,0,0
+21146,MD,Anne Arundel,Severna Park,1,1,0,1,0,0,0,0,0,0
+21154,MD,Harford,Street,1,1,0,0,1,0,0,1,1,0
+21158,MD,Carroll,Westminster,1,1,1,0,0,0,0,0,0,0
+21162,MD,Baltimore,White Marsh,1,1,0,1,0,0,0,0,0,0
+21201,MD,Baltimore (city),Baltimore,1,0,1,0,0,0,0,0,0,0
+21202,MD,Baltimore (city),Baltimore,1,0,1,0,0,0,0,0,0,0
+21205,MD,Baltimore (city),Baltimore,1,1,0,0,0,1,0,0,0,0
+21211,MD,Baltimore (city),Baltimore,1,0,1,0,0,0,0,1,1,0
+21214,MD,Baltimore (city),Baltimore,1,1,0,0,0,0,1,0,0,0
+21219,MD,Baltimore,Sparrows Point,1,1,1,0,0,0,0,0,0,0
+21223,MD,Baltimore (city),Baltimore,1,1,1,0,0,0,0,0,0,0
+21227,MD,Baltimore,Baltimore Highlands,1,0,1,0,0,0,0,0,0,0
+21228,MD,Baltimore,Catonsville,1,1,0,0,0,1,0,0,0,0
+21230,MD,Baltimore (city),Baltimore,1,1,0,1,0,0,0,0,0,0
+21401,MD,Anne Arundel,Annapolis,1,1,0,0,0,1,0,0,0,0
+21501,MD,Allegany,Cumberland,1,1,0,1,0,0,0,0,0,0
+21502,MD,Allegany,Cumberland,1,1,0,0,1,0,0,0,0,0
+21536,MD,Garrett,Grantsville,1,1,0,1,0,0,0,0,0,0
+21550,MD,Garrett,Oakland,1,1,0,0,1,0,0,0,0,0
+21562,MD,Allegany,Westernport,1,1,1,0,0,0,0,0,0,0
+21613,MD,Dorchester,Cambridge,1,1,0,0,1,0,0,0,0,0
+21629,MD,Caroline,Denton,1,1,1,0,0,0,0,0,0,0
+21639,MD,Caroline,Greensboro,1,1,0,0,1,0,0,0,0,0
+21662,MD,Talbot,Royal Oak,1,1,0,1,0,0,0,0,0,0
+21701,MD,Frederick,Frederick,1,0,1,0,0,0,0,0,0,0
+21702,MD,Frederick,Frederick,1,1,0,0,1,0,0,0,0,0
+21742,MD,Washington,Hagerstown,1,1,0,1,0,0,0,0,0,0
+21784,MD,Carroll,Sykesville,1,1,0,1,0,0,0,1,1,0
+21793,MD,Frederick,Walkersville,1,1,0,1,0,0,0,0,0,0
+21811,MD,Worcester,Ocean Pines,1,1,1,0,0,0,0,0,0,0
+21826,MD,Wicomico,Fruitland,1,1,0,0,1,0,0,0,0,0
+21838,MD,Somerset,Marion,1,1,1,0,0,0,0,0,0,0
+21853,MD,Somerset,Princess Anne,1,1,0,0,1,0,0,0,0,0
+21871,MD,Somerset,Westover,1,1,0,1,0,0,0,0,0,0
+21901,MD,Cecil,North East,1,1,0,1,0,0,0,0,0,0
+21904,MD,Cecil,Port Deposit,1,1,1,0,0,0,0,0,0,0
+22003,VA,Fairfax,Annandale,1,1,0,0,0,1,0,0,0,0
+22030,VA,Fairfax (city),Fairfax,1,1,0,0,0,0,1,0,0,0
+22031,VA,Fairfax,Fairfax,1,1,1,0,0,0,0,0,0,0
+22033,VA,Fairfax,Fair Lakes,1,1,1,0,0,0,0,0,0,0
+22102,VA,Fairfax,Mclean,1,1,0,0,0,0,1,0,0,0
+22151,VA,Fairfax,Springfield,1,1,0,0,1,0,0,0,0,0
+22152,VA,Fairfax,Springfield,1,1,0,0,1,0,0,0,0,0
+22153,VA,Fairfax,Springfield,1,1,0,0,0,0,1,1,1,0
+22181,VA,Fairfax,Vienna,1,1,0,0,1,0,0,0,0,0
+22191,VA,Prince William,Wdbg,1,0,1,0,0,0,0,0,0,0
+22202,VA,Arlington,Arlington,1,1,1,0,0,0,0,0,0,0
+22306,VA,Fairfax,Alexandria,1,1,0,0,0,0,1,0,0,0
+22308,VA,Fairfax,Alexandria,1,1,1,0,0,0,0,0,0,0
+22310,VA,Fairfax,Alexandria,1,1,0,0,0,0,1,0,0,0
+22311,VA,Alexandria (city),Alexandria,1,1,0,0,1,0,0,1,1,0
+22312,VA,Fairfax,Alexandria,1,1,1,0,0,0,0,0,0,0
+22454,VA,Essex,Dunnsville,1,1,0,1,0,0,0,0,0,0
+22485,VA,King George,King George,1,1,0,1,0,0,0,0,0,0
+22546,VA,Caroline,Ruther Glen,1,0,1,0,0,0,0,0,0,0
+22553,VA,Spotsylvania,Snell,1,1,0,1,0,0,0,0,0,0
+22560,VA,Essex,Tappahannock,1,1,1,0,0,0,0,0,0,0
+22601,VA,Winchester (city),Winchester,1,1,1,0,0,0,0,1,1,0
+22637,VA,Frederick,Gore,1,1,0,1,0,0,0,0,0,0
+22701,VA,Culpeper,Culpeper,1,1,1,0,0,0,0,0,0,0
+22911,VA,Albemarle,Charlottesville,1,1,1,0,0,0,0,0,0,0
+23002,VA,Amelia,Amelia Court House,1,0,1,0,0,0,0,0,0,0
+23009,VA,King William,Aylett,1,1,0,0,1,0,0,0,0,0
+23015,VA,Hanover,Beaverdam,1,0,1,0,0,0,0,0,0,0
+23030,VA,Charles (city),Charles City,1,1,1,0,0,0,0,0,0,0
+23040,VA,Cumberland,Cumberland,1,1,0,1,0,0,0,0,0,0
+23061,VA,Gloucester,Bellamy,1,0,1,0,0,0,0,0,0,0
+23071,VA,Middlesex,Hartfield,1,1,1,0,0,0,0,0,0,0
+23075,VA,Henrico,Henrico,1,1,1,0,0,0,0,0,0,0
+23086,VA,King William,King William,1,1,0,0,1,0,0,0,0,0
+23089,VA,New Kent,Lanexa,1,0,1,0,0,0,0,0,0,0
+23117,VA,Louisa,Mineral,1,1,1,0,0,0,0,0,0,0
+23124,VA,New Kent,New Kent,1,1,1,0,0,0,0,0,0,0
+23128,VA,Mathews,North,1,1,1,0,0,0,0,0,0,0
+23140,VA,New Kent,Providence Forge,1,1,0,0,1,0,0,0,0,0
+23146,VA,Hanover,Rockville,1,1,0,0,1,0,0,0,0,0
+23181,VA,King William,West Point,1,1,1,0,0,0,0,0,0,0
+23188,VA,James (city),Williamsburg,1,1,0,0,1,0,0,0,0,0
+23222,VA,Richmond (city),Richmond,1,1,1,0,0,0,0,0,0,0
+23232,VA,Richmond (city),Richmond,1,1,0,0,1,0,0,0,0,0
+23233,VA,Henrico,Henrico,1,1,1,0,0,0,0,0,0,0
+23236,VA,Chesterfield,North Chesterfield,1,1,1,0,0,0,0,0,0,0
+23314,VA,Isle Of Wight,Carrollton,1,1,1,0,0,0,0,0,0,0
+23321,VA,Chesapeake (city),Chesapeake,1,1,0,0,1,0,0,0,0,0
+23325,VA,Chesapeake (city),Chesapeake,1,1,0,1,0,0,0,0,0,0
+23417,VA,Accomack,Onancock,1,1,0,1,0,0,0,1,1,0
+23451,VA,Virginia Beach (city),Virginia Beach,1,1,0,0,1,0,0,0,0,0
+23455,VA,Virginia Beach (city),Virginia Beach,1,1,0,0,1,0,0,1,1,0
+23464,VA,Virginia Beach (city),Virginia Beach,1,1,0,0,0,1,0,0,0,0
+23502,VA,Norfolk (city),Norfolk,1,1,0,0,1,0,0,0,0,0
+23503,VA,Norfolk (city),Norfolk,1,1,0,0,1,0,0,0,0,0
+23513,VA,Norfolk (city),Norfolk,1,1,0,1,0,0,0,0,0,0
+23518,VA,Norfolk (city),Norfolk,1,1,1,0,0,0,0,0,0,0
+23523,VA,Norfolk (city),Norfolk,1,1,1,0,0,0,0,0,0,0
+23602,VA,Newport News (city),Newport News,1,1,0,0,1,0,0,0,0,0
+23606,VA,Newport News (city),Newport News,1,1,0,0,1,0,0,0,0,0
+23690,VA,York,Yorktown,1,1,0,0,1,0,0,0,0,0
+23701,VA,Portsmouth (city),Portsmouth,1,1,1,0,0,0,0,0,0,0
+23703,VA,Portsmouth (city),Portsmouth,1,0,1,0,0,0,0,0,0,0
+23704,VA,Portsmouth (city),Portsmouth,1,1,1,0,0,0,0,0,0,0
+23824,VA,Nottoway,Blackstone,1,1,0,1,0,0,0,0,0,0
+23832,VA,Chesterfield,Chesterfield,1,1,0,0,1,0,0,0,0,0
+23847,VA,Greensville,Emporia,1,1,0,0,1,0,0,0,0,0
+23868,VA,Brunswick,Lawrenceville,1,1,0,1,0,0,0,0,0,0
+23894,VA,Dinwiddie,Wilsons,1,1,0,0,0,1,0,0,0,0
+23898,VA,Isle Of Wight,Zuni,1,1,1,0,0,0,0,0,0,0
+23917,VA,Mecklenburg,Boydton,1,1,1,0,0,0,0,0,0,0
+23920,VA,Brunswick,Brodnax,1,1,0,0,0,1,0,0,0,0
+23937,VA,Charlotte,Drakes Branch,1,1,0,1,0,0,0,0,0,0
+23944,VA,Lunenburg,Kenbridge,1,1,0,0,1,0,0,0,0,0
+24013,VA,Roanoke (city),Roanoke,1,1,0,0,1,0,0,0,0,0
+24016,VA,Roanoke (city),Roanoke,1,1,0,1,0,0,0,0,0,0
+24064,VA,Botetourt,Blue Ridge,1,1,0,1,0,0,0,0,0,0
+24073,VA,Montgomery,Christiansburg,1,1,0,0,1,0,0,0,0,0
+24078,VA,Henry,Collinsville,1,1,0,1,0,0,0,0,0,0
+24083,VA,Botetourt,Daleville,1,1,0,0,1,0,0,0,0,0
+24088,VA,Franklin,Ferrum,1,1,0,1,0,0,0,0,0,0
+24092,VA,Franklin,Glade Hill,1,1,1,0,0,0,0,0,0,0
+24121,VA,Bedford,Moneta,1,1,0,0,0,1,0,0,0,0
+24134,VA,Giles,Pearisburg,1,1,0,0,1,0,0,0,0,0
+24136,VA,Giles,Pembroke,1,1,0,0,1,0,0,0,0,0
+24148,VA,Henry,Ridgeway,1,1,0,1,0,0,0,0,0,0
+24149,VA,Montgomery,Riner,1,1,0,0,1,0,0,0,0,0
+24151,VA,Franklin,Rocky Mount,1,1,1,0,0,0,0,0,0,0
+24202,VA,Washington,Bristol,1,1,0,0,1,0,0,0,0,0
+24219,VA,Wise,Big Stone Gap,1,0,1,0,0,0,0,1,1,0
+24230,VA,Wise,Coeburn,1,1,0,1,0,0,0,0,0,0
+24244,VA,Scott,Duffield,1,1,0,0,1,0,0,0,0,0
+24352,VA,Carroll,Laurel Fork,1,1,0,0,0,1,0,0,0,0
+24354,VA,Smyth,Marion,1,1,0,0,1,0,0,0,0,0
+24382,VA,Wythe,Wytheville,1,1,1,0,0,0,0,0,0,0
+24401,VA,Staunton (city),Staunton,1,1,0,0,1,0,0,0,0,0
+24430,VA,Augusta,Craigsville,1,1,0,1,0,0,0,1,1,0
+24431,VA,Augusta,Crimora,1,1,0,1,0,0,0,0,0,0
+24450,VA,Lexington (city),Lexington,1,1,0,0,1,0,0,0,0,0
+24477,VA,Augusta,Stuarts Draft,1,1,0,0,1,0,0,0,0,0
+24482,VA,Augusta,Verona,1,1,0,1,0,0,0,0,0,0
+24503,VA,Lynchburg (city),Lynchburg,1,1,0,0,1,0,0,0,0,0
+24505,VA,Lynchburg (city),Lynchburg,1,1,0,1,0,0,0,0,0,0
+24528,VA,Campbell,Brookneal,1,1,0,0,0,1,0,0,0,0
+24534,VA,Halifax,Clover,1,1,0,1,0,0,0,0,0,0
+24538,VA,Campbell,Concord,1,1,0,0,1,0,0,0,0,0
+24541,VA,Danville (city),Da,1,1,1,0,0,0,0,0,0,0
+24550,VA,Campbell,Evington,1,1,0,1,0,0,0,0,0,0
+24557,VA,Pittsylvania,Gretna,1,1,0,1,0,0,0,0,0,0
+24558,VA,Halifax,Halifax,1,1,0,1,0,0,0,1,1,0
+24566,VA,Pittsylvania,Keeling,1,1,0,1,0,0,0,0,0,0
+24578,VA,Rockbridge,Natural Bridge,1,1,0,1,0,0,0,0,0,0
+24590,VA,Albemarle,Scottsville,1,1,0,0,1,0,0,0,0,0
+24605,VA,Tazewell,Bluefield,1,1,0,0,1,0,0,0,0,0
